@@ -1,2 +1,4 @@
-# Bayesian-Inference-Tutorials
-Bayesian inference tutorials based on A/B tests. Sample of my data science work :)
+# Bayesian Inference Tutorials
+Bayesian inference notebooks showcasing how to perform bayesian statistical analysis of an A/B test for certain types of variables.
+
+Sample of my data science work :)
